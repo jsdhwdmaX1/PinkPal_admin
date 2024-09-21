@@ -1,0 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body,
+html {
+  font-family: '微软雅黑', 'Microsoft YaHei', '宋体', 'Arial', sans-serif;
+}
+
+a {
+  color: #666;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #2fa7b9;
+}

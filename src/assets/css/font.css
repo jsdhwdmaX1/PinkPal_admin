@@ -1,0 +1,16 @@
+@font-face {
+    font-family: '鸿雷拙书简体';
+    src: url('@/assets/font/鸿雷拙书简体.otf');
+}
+@font-face {
+    font-family: '鸿雷板书简体';
+    src: url("@/assets/font/鸿雷板书简体.ttf");
+}
+@font-face {
+    font-family: '飞波正点体';
+    src: url("@/assets/font/飞波正点体.otf");
+}
+@font-face {
+    font-family: '三极行楷简体-粗';
+    src: url("@/assets/font/三极行楷简体-粗.ttf");
+}
